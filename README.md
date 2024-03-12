@@ -1,4 +1,4 @@
-# H2O
+# H2O AutoDL
 
 For any question not answered in this file or in [H2O-3 Documentation](https://docs.h2o.ai/h2o/latest-stable/h2o-docs), please use:
 
